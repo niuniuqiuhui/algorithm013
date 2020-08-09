@@ -1,4 +1,6 @@
 学习笔记
+以后每周会把对应的知识点放到脑图中，本周和上周的会慢慢补齐
+https://github.com/niuniuqiuhui/algorithm013/blob/master/%E8%84%91%E5%9B%BE/%E7%AE%97%E6%B3%95.xmind
 
 ### [242] 有效的字母异位词(isAnagram)
 
